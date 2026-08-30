@@ -6,7 +6,7 @@ This repository contains a comprehensive implementation of all Week 4 JavaScript
 
 ### 📋 Project Overview
 
-**Student:** Robert Kurian  
+**Student:** Margaret wangui 
 **Week:** 4 - JavaScript Fundamentals  
 **Status:** ✅ Complete
 
